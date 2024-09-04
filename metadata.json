@@ -1,0 +1,20 @@
+{
+  "KPackageStructure": "KWin/Script",
+  "KPlugin": {
+    "Name": "PiP for KWin(Wayland)",
+    "Description": "Picture-in-Picture for KWin(Wayland)",
+    "Icon": "preferences-system-windows",
+    "Id": "kwin-pip",
+    "License": "GPLv3",
+    "Version": "0.1",
+    "Authors": [
+      {
+        "Name": "Joel Kurian"
+      }
+    ],
+    "Website": "https://github.com/joelkurian/kwin-pip"
+  },
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/main.js",
+  "X-Plasma-API-Minimum-Version": "6.0"
+}

@@ -2,6 +2,7 @@ var browsers = {
   brave: "Picture in picture",
   chromium: "Picture in picture",
   firefox: "Picture-in-Picture",
+  waterfox: "Picture-in-Picture"
 };
 
 function alignWindow(window) {
